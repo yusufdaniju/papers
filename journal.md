@@ -8,3 +8,5 @@ We should also reference (Smith, 2011).
 These results were AMAZING.
 
 Lots of beautiful figures were generated.
+
+These edits are made by Dasha
