@@ -13,3 +13,5 @@ Some of the things they showed were, for example, Bryan is awesome ... ok, thank
 We find that every action leads to equal and opposite reaction.
 
 Lots of beautiful figures were generated.
+
+These edits are made by Dasha
