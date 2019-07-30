@@ -1,3 +1,5 @@
+Added Acknowledgement
+
 # My cool paper !
 ## Me and my friends.
 ## Who are all based in super cool places !
@@ -9,3 +11,5 @@ These results were AMAZING.
 Some of the things they showed were, for example, that....
 
 Lots of beautiful figures were generated.
+
+These edits are made by Dasha
