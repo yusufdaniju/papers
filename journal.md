@@ -1,11 +1,19 @@
+Added Acknowledgement
+
 # My cool paper !
 ## Me and my friends.
 ## Who are all based in super cool places !
+
+we can do better than this!
 
 This is the intro to my amazing paper (B & D, 2019).
 We should also reference (Smith, 2011).
 
 These results were AMAZING.
-Whatever whatever whatever blablabla
+Some of these things were for example...
+
 
 Lots of beautiful figures were generated.
+(I can't see them)
+
+These edits are made by Dasha
