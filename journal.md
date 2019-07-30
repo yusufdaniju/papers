@@ -12,6 +12,7 @@ We should also reference (Smith, 2011).
 These results were AMAZING.
 Some of these things were for example...
 
+
 Lots of beautiful figures were generated.
 (I can't see them)
 
