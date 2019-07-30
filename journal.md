@@ -15,5 +15,6 @@ Some of the things they showed were, for example, xyz.
 Some of the things they showed were, for example, that....
 
 Lots of beautiful figures were generated.
+(I can't see them)
 
 These edits are made by Dasha
