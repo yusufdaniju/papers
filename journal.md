@@ -13,3 +13,5 @@ Some of the things they showed were, for example, that ...
 Lots of wonderful figures were generated.
 
 ## References
+
+Reference 1 (2018).
