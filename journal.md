@@ -12,4 +12,5 @@ Some of the things they showed were, for example, that ...
 
 Lots of wonderful figures were generated.
 
-They were all made with plotting libraries in python like Seaborn !
+They were all made with plotting libraries in Python like Seaborn!
+
