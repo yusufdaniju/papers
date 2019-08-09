@@ -10,6 +10,7 @@ We should also reference (Smith, 2011).
 These results were AMAZING.
 Some of the things they showed were, for example, that ...
 
-Lots of wonderful figures were generated.
+Lots of wonderful figures were generated
 
-This is a revison
+
+I hear the drums echoing tonight...
