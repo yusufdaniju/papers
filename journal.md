@@ -10,6 +10,11 @@ We should also reference (Smith, 2011).
 These results were AMAZING.
 Some of the things they showed were, for example, that ...
 
+I hear the drums echoing tonight...
 Lots of wonderful figures were generated.
+
+Amazing !
+Figures were done in a cool way.
+They were all made with plotting libraries in Python like Seaborn!
 
 Add Fri, Aug 9
