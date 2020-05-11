@@ -12,6 +12,7 @@ Some of the things they showed were, for example, that ...
 
 I hear the drums echoing tonight...
 Lots of wonderful figures were generated.
+Pie charts, delicious !
 
 Amazing !
 Figures were done in a cool way.
