@@ -2,6 +2,8 @@
 ## Me and my friends.
 ### Who are all based in super cool places !
 
+Making a cool paper even cooler !
+
 These are Julio's really, really, reeeeeeeally exciting changes. Yeah.
 
 This is the intro to my amazing paper (B & D, 2019).
