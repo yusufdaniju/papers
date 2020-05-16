@@ -14,6 +14,9 @@ We should also reference (Smith, 2011).
 These results were AMAZING.
 Some of the things they showed were, for example, that ...
 
+## New results section
+Yay!!
+
 I hear the drums echoing tonight...
 Lots of wonderful figures were generated.
 
