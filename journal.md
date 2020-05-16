@@ -4,8 +4,7 @@ Hey man, who are you?
 ## Me and my friends.
 ### Who are all based in super cool places !
 
-Hello world
-
+Making a cool paper even cooler !
 These are Julio's really, really, reeeeeeeally exciting changes. Yeah.
 
 # New Section
