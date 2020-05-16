@@ -26,6 +26,8 @@ Pie charts, delicious !
 Super AWESOME NEW RESULTS!!!
 
 Amazing !
+I confirm this is amazing ! 
+
 Figures were done in a cool way.
 They were all made with plotting libraries in Python like Seaborn!
 
