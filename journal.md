@@ -25,7 +25,7 @@ Pie charts, delicious !
 
 Super AWESOME NEW RESULTS!!!
 
-Amazing !
+Amazing!
 I confirm this is amazing ! 
 
 Figures were done in a cool way.
