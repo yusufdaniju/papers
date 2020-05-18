@@ -1,3 +1,5 @@
+Hey man, who are you?
+
 # My cool paper !
 ## Me and my friends.
 ### Who are all based in super cool places !
@@ -23,6 +25,7 @@ Add Fri, Aug 9
 
 ## References
 Reference 1 (2018).
-
+Reference 2 (1996).
+Reference 3 (2020).
 
 NEW LINE FOR TEST
