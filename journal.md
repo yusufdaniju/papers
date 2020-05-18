@@ -1,5 +1,7 @@
 Hey man, who are you?
 
+I'm Daniel Ducharme, thanks for asking!
+
 # My cool paper !
 ## Me and my friends.
 ### Who are all based in super cool places !
